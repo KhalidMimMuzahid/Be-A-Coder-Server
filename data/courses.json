@@ -1,21 +1,650 @@
 [
   {
     "id": "01",
-    "others_info": {
-      "is_todays_pick": false,
-      "is_trending": true
-    },
-    "category_id": "01",
+    "name": "Javascript for Beginners",
+    "categoryId": "01",
+    "categoryName": "Web Development",
     "rating": { "number": 4.5, "badge": "Excellent" },
-    "total_sold": 488,
-    "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-    "author": {
-      "name": "Jimmy Dane",
-      "published_date": "2022-08-24 17:27:34",
-      "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+    "total_sold": "53,252",
+    "title": "Learn javascript online and supercharge your web design with this Javascript for beginners training course.",
+    "price": "50",
+    "published_date": "10/12/2020",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Dollar Design School",
+      "img": "https://img-b.udemycdn.com/user/200_H/11439_12bd_15.jpg"
     },
-    "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-    "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-    "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+    "thumbnail_url": "https://miro.medium.com/max/828/0*BItEOT9CqzJ7cmZH.png",
+    "details": "JavaScript is among the most powerful and flexible programming languages of the web. It powers the dynamic behavior on most websites, including this one. Take-Away Skills You will learn programming fundamentals and basic object-oriented concepts using the latest JavaScript syntax. The concepts covered in these lessons lay the foundation for using JavaScript in any environment."
+  },
+  {
+    "id": "02",
+    "name": "AJAX Development",
+    "categoryId": "01",
+    "categoryName": "Web Development",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_sold": "54,254",
+    "title": "Create Elegant, Powerful Web and Mobile Applications Using AJAX.",
+    "price": "55",
+    "published_date": "10/06/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Dollar Design School",
+      "img": "https://img-b.udemycdn.com/user/200_H/11439_12bd_15.jpg"
+    },
+    "thumbnail_url": "https://fiodevida.com/wp-content/uploads/2021/05/5778135533_b3ed362b92_o-copy-56a9f6ac3df78cf772abc6d6.jpg",
+    "details": "Ajax short for Asynchronous JavaScript and XML)[1][2] is a set of web development techniques that uses various web technologies on the client-side to create asynchronous web applications. With Ajax, web applications can send and retrieve data from a server asynchronously (in the background) without interfering with the display and behaviour of the existing page."
+  },
+  {
+    "id": "03",
+    "name": "Learn HTML5 Programming From Scratch",
+    "categoryId": "46",
+    "categoryName": "Web Development",
+    "rating": { "number": 4.2, "badge": "good" },
+    "total_sold": "50,252",
+    "title": "A Complete HTML5 Programming Course for Beginners",
+    "price": "50",
+    "published_date": "11/08/2019",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Eduonix Learning Solutions",
+      "img": "https://img-b.udemycdn.com/user/200_H/598757_b22a_3.jpg"
+    },
+    "thumbnail_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/2813/course_2813_image.jpg",
+    "details": "By the end of the course you will be able to create full fledged HTML5 websites You will be able to use features like Drag and Drop, Geo location and Web Storage to create immersible user experience.You will have through understanding of both HTML and CSS You will be able to create web applications for mobile phones as well"
+  },
+  {
+    "id": "04",
+    "name": "1 Hour HTML",
+    "categoryId": "01",
+    "categoryName": "Web Development",
+    "rating": { "number": 4.5, "badge": "good" },
+    "total_sold": "60,252",
+    "title": "Learn how to code in HTML in 1 hour. This class is set up for complete beginners!",
+    "price": "70",
+    "published_date": "9/06/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "John Bura",
+      "img": "https://img-b.udemycdn.com/user/200_H/55737_2d11_6.jpg"
+    },
+    "thumbnail_url": "https://d3mxt5v3yxgcsr.cloudfront.net/courses/2813/course_2813_image.jpg",
+    "details": "Learn the basics of programming Learn HTML Give you a platform for furthur development"
+  },
+  {
+    "id": "05",
+    "name": "1 Hour CSS",
+    "categoryId": "01",
+    "categoryName": "Web Development",
+    "rating": { "number": 4.4, "badge": "good" },
+    "total_sold": "61,209",
+    "title": "Learn how to code in HTML in 1 hour. This class is set up for complete beginners!",
+    "price": "57",
+    "published_date": "7/04/2013",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "John Bura",
+      "img": "https://img-b.udemycdn.com/user/200_H/55737_2d11_6.jpg"
+    },
+    "thumbnail_url": "https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/6XwizvsSSfOFZmU4SZyP",
+    "details": "Learn how to become a web developerLearn CSS Learn how to design websites"
+  },
+  {
+    "id": "06",
+    "name": "Learn and Understand AngularJS",
+    "categoryId": "01",
+    "categoryName": "Web Development",
+    "rating": { "number": 4.6, "badge": "good" },
+    "total_sold": "94,556",
+    "title": "Master AngularJS and the Javascript concepts behind it, design custom directives, and build a single page application.",
+    "price": "65",
+    "published_date": "9/11/2020",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Anthony Alicea",
+      "img": "https://img-b.udemycdn.com/user/200_H/2467626_f2e0_3.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwQNItsnM-OWTkTv8mfLv7Omh_rEhpanLleiZNSM-fp_m2--wvZe0DrhCwCDJu_bSfgNY&usqp=CAU",
+    "details": "Learn fundamental Javascript concepts that power AngularJS. Write quicker, better AngularJS code by discovering how AngularJS itself is built. Become fluent in AngularJS terminology, such as dependency injection services, directives, transclusion, and more. Realize the power of dependency injection, and how AngularJS accomplishes it."
+  },
+  {
+    "id": "07",
+    "name": "R Level 1 - Data Analytics with R",
+    "categoryId": "02",
+    "categoryName": "Data Science Courses",
+    "rating": { "number": 4.5, "badge": "good" },
+    "total_sold": "14,938",
+    "title": "Use R for Data Analytics and Data Mining",
+    "price": "56",
+    "published_date": "4/06/2019",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "R-Tutorials Training",
+      "img": "https://img-b.udemycdn.com/user/200_H/5678748_cae5_4.jpg"
+    },
+    "thumbnail_url": "https://onlinecoursedownload.com/wp-content/uploads/2021/12/R-Level-1-Data-Analytics-with-R.jpg",
+    "details": "this course will show you how the most common types of graphs can be produced with R base you will get a good understanding of functions and loops in R which are very useful programming skills to have you will get the necessary theoretical background for R. you will learn how to create and handle different types of objects"
+  },
+  {
+    "id": "08",
+    "name": "Cluster Analysis and Unsupervised Machine Learning in Python",
+    "categoryId": "02",
+    "categoryName": "Data Science Courses",
+    "rating": { "number": 4.6, "badge": "good" },
+    "total_sold": "23,897",
+    "title": "Data science techniques for pattern recognition, data mining, k-means clustering, and hierarchical clustering, and KDE.",
+    "price": "46",
+    "published_date": "4/06/2019",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Lazy Programmer Team",
+      "img": "https://img-b.udemycdn.com/user/200_H/75391750_5441.jpg"
+    },
+    "thumbnail_url": "https://media.geeksforgeeks.org/wp-content/uploads/k-means-copy.jpg",
+    "details": "Understand the regular K-Means algorithm Understand and enumerate the disadvantages of K-Means Clustering Understand the soft or fuzzy K-Means Clustering algorithm Implement Soft K-Means Clustering in Code"
+  },
+  {
+    "id": "09",
+    "name": "Deep Learning: Convolutional Neural Networks in Python",
+    "categoryId": "02",
+    "categoryName": "Data Science Courses",
+    "rating": { "number": 4.6, "badge": "good" },
+    "total_sold": "32,428",
+    "title": "Tensorflow 2 CNNs for Computer Vision, Natural Language Processing (NLP) +More! For Data Science & Machine Learning",
+    "price": "80",
+    "published_date": "10/12/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Lazy Programmer Team",
+      "img": "https://img-b.udemycdn.com/user/200_H/75391750_5441.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfnl1PXcG9KlrpPOG7X_P2UtsbCv-b6wapPA&usqp=CAU",
+    "details": "Understand convolution and why it's useful for Deep Learning Understand and explain the architecture of a convolutional neural network (CNN) Implement a CNN in TensorFlow 2 Apply CNNs to challenging Image Recognition tasks"
+  },
+  {
+    "id": "10",
+    "name": "Unsupervised Deep Learning in Python",
+    "categoryId": "02",
+    "categoryName": "Data Science Courses",
+    "rating": { "number": 4.5, "badge": "good" },
+    "total_sold": "19,160",
+    "title": "Autoencoders, Restricted Boltzmann Machines, Deep Neural Networks, t-SNE and PCA",
+    "price": "57",
+    "published_date": "10/02/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Lazy Programmer Team",
+      "img": "https://img-b.udemycdn.com/user/200_H/75391750_5441.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDPyytwDJ-256GD5tAGAmJ1LDHcN6KPX8FDKvfzvA6xkWJ0xxzhWhjy_hGWYGKUGt2S9g&usqp=CAU",
+    "details": "Understand the theory behind principal components analysis visualization, de-correlation, and denoisingDerive the PCA algorithm by handWrite the code for PCA"
+  },
+  {
+    "id": "11",
+    "name": "Apache Spark with Scala - Hands On with Big Data!",
+    "categoryId": "02",
+    "categoryName": "Data Science Courses",
+    "rating": { "number": 4.5, "badge": "good" },
+    "total_sold": "86,930",
+    "title": "Apache Spark tutorial with 20+ hands-on examples of analyzing large data sets, on your desktop or on Hadoop with Scala!",
+    "price": "90",
+    "published_date": "17/02/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Frank Kane",
+      "img": "https://img-b.udemycdn.com/user/200_H/32164746_8429_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSUf16joHRB5wBXlMgzgKNgvFGpLACgpWKEg&usqp=CAU",
+    "details": "Develop distributed code using the Scala programming language Transform structured data using SparkSQL, DataSets, and DataFrames Frame big data analysis problems as Apache Spark scripts Optimize Spark jobs through partitioning, caching, and other techniques"
+  },
+  {
+    "id": "12",
+    "name": "Data Analysis with Pandas and Python",
+    "categoryId": "02",
+    "categoryName": "Data Science Courses",
+    "rating": { "number": 4.5, "badge": "good" },
+    "total_sold": "172,554",
+    "title": "Analyze data quickly and easily with Python's powerful pandas library! All datasets included --- beginners welcome!",
+    "price": "100",
+    "published_date": "17/10/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Boris Paskhaver",
+      "img": "https://img-b.udemycdn.com/user/200_H/7947666_5e30_4.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJaN41kRQ9Z4AM3VJMPN_HcPeLrEb0sPRtyw&usqp=CAU",
+    "details": "Develop distributed code using the Scala programming language Transform structured data using SparkSQL, DataSets, and DataFrames Frame big data analysis problems as Apache Spark scripts Optimize Spark jobs through partitioning, caching, and other techniques"
+  },
+  {
+    "id": "13",
+    "name": "Objective-C Crash Course for Swift Developers",
+    "categoryId": "03",
+    "categoryName": "Mobile Development Courses",
+    "rating": { "number": 4.7, "badge": "good" },
+    "total_sold": "7,670",
+    "title": "Everything you need to know about modern Objective-C to use it professionally",
+    "price": "40",
+    "published_date": "21/04/2022",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Mark Wahlbeck",
+      "img": "https://img-b.udemycdn.com/user/200_H/14214490_3956_3.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVZHxOg_QdiEgROsN1cIvhqq7WSTbVyv0-5w&usqp=CAU",
+    "details": "Write code in Objective-C Convert Swift iOS Apps into Objective-C Convert Objective-C iOS Apps into Swift Build Simple Node & Express Servers and APIs"
+  },
+  {
+    "id": "14",
+    "name": "Android Material Design",
+    "categoryId": "03",
+    "categoryName": "Mobile Development Courses",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "2,492",
+    "title": "Introduction, Implementation and Mastering. All in one!",
+    "price": "30",
+    "published_date": "21/10/2017",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Annapurna Agrawal Siddhartha",
+      "img": "https://img-b.udemycdn.com/user/200_H/24064256_8ed1_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VMKcElfSFU31-XodOYLqR6X9hnuvE3yisg&usqp=CAU",
+    "details": "Write code in Objective-C Convert Swift iOS Apps into Objective-C Convert Objective-C iOS Apps into Swift Build Simple Node & Express Servers and APIs"
+  },
+  {
+    "id": "15",
+    "name": "Android Java Masterclass - Become an App Developer",
+    "categoryId": "03",
+    "categoryName": "Mobile Development Courses",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Improve your career options by learning Android app Development. Master Android Studio and build your first app today",
+    "price": "60",
+    "published_date": "21/10/2013",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Annapurna Agrawal Siddhartha",
+      "img": "https://img-b.udemycdn.com/user/200_H/24064256_8ed1_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPlYAOPeGDswS-osAMHVpjbJ5oq-RtglPRCmJi2aKqTWkAFaT_IGo49FLWx4BLwoRf6kw&usqp=CAU",
+    "details": "You're taught step by step HOW to build Android 7 apps for With each comprehensive step, the WHY you're doing it is explained. You'll have EXPERT LEVEL knowledge of the Java programming language and know exactly how each process of Android Nougat development works. The course is continually UPDATED, so you'll learn the very latest as Android Nougat evolves."
+  },
+  {
+    "id": "16",
+    "name": "The Complete React Native + Hooks Course",
+    "categoryId": "03",
+    "categoryName": "Mobile Development Courses",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Understand React Native with Hooks, Context, and React Navigation.",
+    "price": "50",
+    "published_date": "12/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Stephen Grider",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgip7RleScW55-XXJH0vtR6vDXzgzbRQqf5g&usqp=CAU",
+    "details": "Create real-world native apps using React Native Make truly reusable components that look great Understand the terminology and concepts of Redux Prototype and deploy your own applications to the Apple and Google Play Stores"
+  },
+  {
+    "id": "17",
+    "name": "React Native: Advanced Concepts",
+    "categoryId": "03",
+    "categoryName": "Mobile Development Courses",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Master the advanced topics of React Native: Animations, Maps, Notifications, Navigation and More!",
+    "price": "40",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Stephen Grider",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgip7RleScW55-XXJH0vtR6vDXzgzbRQqf5g&usqp=CAU",
+    "details": "Make compelling applications using expert-level features of React Native Create amazingly smooth and performant animations Build new React Native apps with Expo Understand the latest Navigation options for new React Native apps"
+  },
+  {
+    "id": "18",
+    "name": "Kotlin Android Development Masterclass",
+    "categoryId": "03",
+    "categoryName": "Mobile Development Courses",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Learn Kotlin, Android Development, Android Studio & IntelliJ IDEA from Scratch. Build Android Apps in Kotlin.",
+    "price": "50",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Stephen Grider",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgip7RleScW55-XXJH0vtR6vDXzgzbRQqf5g&usqp=CAU",
+    "details": "Build sophisticated Android Oreo Apps using Kotlin Quickly master Kotlin Programming language Become a Confident Kotlin and Android Developer who is hirable NEW Content and Updates will be added to the course frequently"
+  },
+  {
+    "id": "19",
+    "name": "Learn C# Programming",
+    "categoryId": "04",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "The simplest way to learn C# programming.",
+    "price": "57",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Stephen Grider",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5qLYBsgdu1p9kyqsls7CIoBEgVNab5jjQrQ&usqp=CAU",
+    "details": "Master C# programming concepts from the ground up Use the source code examples to learn step-by-step Understand the special features of C#: object orientation, the .NEt framework, error-handling, serialization"
+  },
+  {
+    "id": "20",
+    "name": "Java Swing (GUI)",
+    "categoryId": "04",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Learn how to create desktop and Internet GUI Java programs and take your Java programming to the next level.",
+    "price": "70",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "John Purcell",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgip7RleScW55-XXJH0vtR6vDXzgzbRQqf5g&usqp=CAU",
+    "details": "Learn how to write GUI (graphical user interface) applications in Java Understand the Java Swing framework Discover how to create database applications"
+  },
+  {
+    "id": "21",
+    "name": "Learn Perl 5 By Doing It",
+    "categoryId": "04",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Learn Perl by actually creating useful, working Perl programs for everything from web scraping to fixing your data.",
+    "price": "50",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "John Purcell",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw_9n3jr8T4VnrpTI61lzK9tR7nGBPnfS-g&usqp=CAU",
+    "details": "Learn how to use Perl for a variety of common tasks Learn how to use regular expressions"
+  },
+  {
+    "id": "22",
+    "name": "Learn Perl 5 By Doing It",
+    "categoryId": "04",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Learn Perl by actually creating useful, working Perl programs for everything from web scraping to fixing your data.",
+    "price": "50",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "John Purcell",
+      "img": "https://img-b.udemycdn.com/user/200_H/5487312_0554.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaw_9n3jr8T4VnrpTI61lzK9tR7nGBPnfS-g&usqp=CAU",
+    "details": "Learn how to use Perl for a variety of common tasks Learn how to use regular expressions"
+  },
+  {
+    "id": "23",
+    "name": "C++: From Beginner to Expert",
+    "categoryId": "04",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "Designed for people who don't have any knowledge about the programming and want to program in C++",
+    "price": "55",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Arkadiusz Włodarczyk",
+      "img": "https://img-b.udemycdn.com/user/200_H/621716_0514_3.jpg"
+    },
+    "thumbnail_url": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.creativefabrica.com%2Fwp-content%2Fuploads%2F2021%2F02%2F11%2FC-Logo-Graphics-8547571-1.jpg&imgrefurl=https%3A%2F%2Fwww.creativefabrica.com%2Fproduct%2Fc-logo-14%2F&tbnid=J3M2kGyzWpomyM&vet=12ahUKEwjdhqm5j_z6AhWP93MBHX-2CSwQMygFegUIARDTAQ..i&docid=GA62G4T_mHaznM&w=3000&h=2000&q=c%2B%2B&hl=en&ved=2ahUKEwjdhqm5j_z6AhWP93MBHX-2CSwQMygFegUIARDTAQ",
+    "details": "How to use C++ language in action What is compiler / IDE / Variables / types of variables etc. How to work with files - fstream library (i/o operation on files) operators - arithmetic, assigment, logical, bitwise"
+  },
+  {
+    "id": "24",
+    "name": "ASP.Net Web Forms Live Project",
+    "categoryId": "04",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "67,658",
+    "title": "RealTime End To End Implementation",
+    "price": "70",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Manzoor Ahmed",
+      "img": "https://img-b.udemycdn.com/user/200_H/1844382_622c_8.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_N4kGWHtcco2cAIYKop40Xl9zYhm320fPTg&usqp=CAU",
+    "details": "By the end of the course you will be in a position to develop any web application by yourself. Can do analysis and design of any project Can design and implement database. Can write data access logic layer"
+  },
+  {
+    "id": "25",
+    "name": "Complete C# Unity Game Developer 2D",
+    "categoryId": "05",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "432,519",
+    "title": "Learn Unity in C# & Code Your First Five 2D Video Games for Web, Mac & PC. The Tutorials Cover Tilemap",
+    "price": "100",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Gary Pettie",
+      "img": "https://img-b.udemycdn.com/user/200_H/27472388_3ae9_2.jpg"
+    },
+    "thumbnail_url": "https://www.filepicker.io/api/file/GItKJe8SLOzX6s5eTiBQ",
+    "details": "Learn C#, a powerful modern language, from scratch. No prior programming experience is necessary. Become excellent at using the Unity game engine. Build a solid foundation for game design and game development that will help you build your own games. Learn how object oriented programming works in practice."
+  },
+  {
+    "id": "26",
+    "name": "Unreal Engine 5: The Complete Beginner's Course",
+    "categoryId": "05",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "432,519",
+    "title": "Learn Video Game Development & How To Design a Game From Scratch Using UE5",
+    "price": "58",
+    "published_date": "17/09/2016",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Gary Pettie",
+      "img": "https://img-b.udemycdn.com/user/200_H/27472388_3ae9_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWels8viGe_srFD_LZpPXV8mG6NMMNNydIWQ&usqp=CAU",
+    "details": "Learn game development using Unreal Engine 5 Build realistic looking environments for games to take place in Define custom inputs and movements to control characters Script logic to define gameplay without needing to know how to code"
+  },
+  {
+    "id": "27",
+    "name": "How To Get A Job In The Video Game Industry",
+    "categoryId": "05",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "432,519",
+    "title": "Create a Winning Resume, Portfolio, LinkedIn Profile & Job Application. Dominate Interviews & Networking.",
+    "price": "60",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Gary Pettie",
+      "img": "https://img-b.udemycdn.com/user/200_H/27472388_3ae9_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFmVwHR0XnLilik37lMICdodPzysWl8vjVHQ&usqp=CAU",
+    "details": "Stand out from other candidates and get interviews for Create winning Resumes, Cover Letters, Portfolios and LinkedIn profiles specifically tailored to the Video Game Industry. Dominate in interviews by using specific, proven tactics and strategies. Take action to get relevant video game industry experience (even if you have no experience to start with)."
+  },
+  {
+    "id": "28",
+    "name": "Develop Minecraft Plugins (Java)",
+    "categoryId": "05",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "432,519",
+    "title": "High-quality tutorials providing you with the most sustainable practices available to make Minecraft plugins.",
+    "price": "90",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Gary Pettie",
+      "img": "https://img-b.udemycdn.com/user/200_H/27472388_3ae9_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN7qMaBbLpHBy199dqp2eLeTnpx_5ax7849g&usqp=CAU",
+    "details": "Learn the programming language Java (if not known) Develop plugins for Spigot, Paper, Bukkit or BungeeCord Start with events, commands and progress to minigame and packets! Best ways to earn money from Minecraft plugins (servers, selling, comissions)"
+  },
+  {
+    "id": "29",
+    "name": "Complete C# Unity Game Developer 3D",
+    "categoryId": "05",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "432,519",
+    "title": "Design & Develop Video Games. Learn C# in Unity Engine. Code Your first 3D Unity games for web, Mac & PC.",
+    "price": "40",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Ben Tristem",
+      "img": "https://img-b.udemycdn.com/user/200_H/4355282_676b_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF77fkw0h77IwMCbHDbshlP6tWQMinmQajXg&usqp=CAU",
+    "details": "Learn C# from scratch. A powerful modern language. Get experience using Unity 2020 - a very versatile 3D tool. Gain an excellent general knowledge of video game design. Make 2.5D and 3D games in Unity."
+  },
+  {
+    "id": "30",
+    "name": "Learn How To Code Games In Roblox Studio",
+    "categoryId": "05",
+    "categoryName": "Programming Languages",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "7,135",
+    "title": "Learn how to create Roblox games in an easy to understand step by step course",
+    "price": "50",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Ben Tristem",
+      "img": "https://img-b.udemycdn.com/user/200_H/4355282_676b_2.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS574NEogFjTd0zfCeDb2d3yuivuoGtASWRNw&usqp=CAU",
+    "details": "An understanding of Lua the coding language used to create Roblox Games. The basic concepts of computer programming How to get set up to create your first Roblox game by creating an account and downloading and installing Roblox Studio. How to move, scale and rotate your Roblox parts."
+  },
+  {
+    "id": "31",
+    "name": "SQL Server Essentials, from Scratch",
+    "categoryId": "06",
+    "categoryName": "Database Design & Development",
+    "rating": { "number": 4.3, "badge": "good" },
+    "total_sold": "7,135",
+    "title": "Learn how to create Roblox games in an easy to understand step by step course",
+    "price": "80",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Joey Blue",
+      "img": "https://img-b.udemycdn.com/user/200_H/466410_0def_4.jpg"
+    },
+    "thumbnail_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBHgGNG9SONft67QVWLqpnnIocf6WWWMw9cQ&usqp=CAU",
+    "details": "By the end of the course, you will have a foundation in SQL Server and the vocabulary and understanding to talk about and use SQL Server with confidence. You will know how to navigate SQL Server Management Studio (SSMS) to find database objects and business data. You will understand how to take advantage of Management Studio to make you work faster and more efficient."
+  },
+  {
+    "id": "32",
+    "name": "Database Design",
+    "categoryId": "06",
+    "categoryName": "Database Design & Development",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_sold": "93,082",
+    "title": "Learn relational database Design with practical concepts and examples. This series works with any database system!",
+    "price": "70",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Caleb Curry",
+      "img": "https://img-b.udemycdn.com/user/200_H/947766_df17_3.jpg"
+    },
+    "thumbnail_url": "https://bs-uploads.toptal.io/blackfish-uploads/components/seo/content/og_image_file/og_image/777046/0712-Bad_Practices_in_Database_Design_-_Are_You_Making_These_Mistakes_Dan_Social-754bc73011e057dc76e55a44a954e0c3.png",
+    "details": "Learn all of the types of relationships and how to properly design them all within a database. This includes one to one, one to many, and many to many. You will also learn about the difference between a parent table and a child table Learn about all of the types and categories of keys including superykeys, candidate keys, primary keys, alternate keys, natural keys, surrogate keys, simple keys, compound keys, composite keys, and foreign keys Learn database normalization. We will be learning the first 3 normal forms of database normalization. This will reduce redundant and"
+  },
+  {
+    "id": "33",
+    "name": "Learn SQL in 6 days",
+    "categoryId": "06",
+    "categoryName": "Database Design & Development",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_sold": "2,482",
+    "title": "Learn SQL and handle databases confidently",
+    "price": "50",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Caleb Curry",
+      "img": "https://img-b.udemycdn.com/user/200_H/947766_df17_3.jpg"
+    },
+    "thumbnail_url": "https://m.media-amazon.com/images/I/41Lr6hiRxdL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTWOANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA6%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+    "details": "The primary objective is to make the individual utilizing this tutorial an expert in writing data retrieval statements."
+  },
+  {
+    "id": "34",
+    "name": "Relational Database Design",
+    "categoryId": "06",
+    "categoryName": "Database Design & Development",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_sold": "2,482",
+    "title": "Learn how to create an effective relational database design to use in your IT career or even a personal project.",
+    "price": "56",
+    "published_date": "06/09/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "Caleb Curry",
+      "img": "https://img-b.udemycdn.com/user/200_H/947766_df17_3.jpg"
+    },
+    "thumbnail_url": "https://m.media-amazon.com/images/I/41Lr6hiRxdL._SR600%2C315_PIWhiteStrip%2CBottomLeft%2C0%2C35_PIStarRatingTWOANDHALF%2CBottomLeft%2C360%2C-6_SR600%2C315_ZA6%2C445%2C290%2C400%2C400%2CAmazonEmberBold%2C12%2C4%2C0%2C0%2C5_SCLZZZZZZZ_FMpng_BG255%2C255%2C255.jpg",
+    "details": "Learn how to design a relational database Learn what normalisation is, and each of the three normal forms Start designing a database from nothing Learn how to identify tables, and how to create relationships"
+  },
+  {
+    "id": "35",
+    "name": "Microsoft Access SQL: SQL for Non-Programmers",
+    "categoryId": "06",
+    "categoryName": "Database Design & Development",
+    "rating": { "number": 4.7, "badge": "Excellent" },
+    "total_sold": "2,482",
+    "title": "Learn How You Can Use SQL in Microsoft Access with the Tips, Tools, and Exercises in This Best-Selling Course.",
+    "price": "50",
+    "published_date": "26/11/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "IsáBel",
+      "img": "https://img-b.udemycdn.com/user/200_H/9539704_c723_2.jpg"
+    },
+    "thumbnail_url": "https://www.downloadfreecourses.com/wp-content/uploads/2020/07/SQL.jpg",
+    "details": "Files & SQL Script Included! WRITE SQL Queries in Your Microsoft Access Databases CREATE Select Queries. FILTER with the WHERE Clause. SORT Your Access Records. GROUP Your Records. USE Aggregate Functions. LEARN About Date Function. GET. LEARN How to Join Tables"
+  },
+  {
+    "id": "36",
+    "name": "The Complete Oracle SQL Bootcamp",
+    "categoryId": "06",
+    "categoryName": "Database Design & Development",
+    "rating": { "number": 4.9, "badge": "Excellent" },
+    "total_sold": "59,647",
+    "title": "Become an In-demand SQL Professional! Pass Oracle SQL 1Z0-071 (OCA) Certification Exam Confidently!",
+    "price": "40",
+    "published_date": "26/11/2021",
+    "instructor": {
+      "address": "NewYork, USA",
+      "name": "IsáBel",
+      "img": "https://img-b.udemycdn.com/user/200_H/9539704_c723_2.jpg"
+    },
+    "thumbnail_url": "https://freecoursesite.com/storage/2021/01/414548454.jpg",
+    "details": "Pass Oracle 1Z0-071 SQL Database SQL Certification Exam easily on your first try! Be Able to Answer any SQL Interview Questions Confidently! Become a Job-Ready SQL Developer by Learning All the Skills You will Need! Learn Oracle SQL by Professionally Designed Content Step by Step! Write, Read and Analyze Any SQL Queries Easily and Learn How to Play with Data! Solve any SQL-related Problems by Yourself Creating Analytical"
   }
 ]

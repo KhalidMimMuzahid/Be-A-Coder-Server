@@ -1,26 +1,26 @@
 [
   {
-    "name": "HTML",
-    "id": 1
+    "name": "Web Development",
+    "id": "01"
   },
   {
-    "name": "CSS",
-    "id": 2
+    "name": "Data Science Courses",
+    "id": "02"
   },
   {
-    "name": "BootStrap",
-    " id": 3
+    "name": "Mobile Development",
+    "id": "03"
   },
   {
-    "name": "TailWind",
-    "id": 4
+    "name": "Programming Languages",
+    "id": "04"
   },
   {
-    "name": "JavaScript",
-    "id": 5
+    "name": "Game Development ",
+    "id": "05"
   },
   {
-    "name": "REACT",
-    "id": 6
+    "name": "Database Design & Development Courses",
+    "id": "06"
   }
 ]
